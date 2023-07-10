@@ -1,0 +1,62 @@
+/* Head section */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.A{
+    margin-left: 120px;
+    padding: 140px;
+
+}
+.bold{
+    font-size: 60px;
+    font-weight: 1800px;
+    width: 508px;
+    height: 200px;
+    color: #272727;
+    line-height: normal;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 100px;
+}
+
+.para{
+    display: flex;
+width: 634px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 100px;
+
+
+}
+
+.btn{
+    color: #FFF;
+    border-radius: 5px;
+    background-color: #E55473;
+    height: 45px;
+    width: 120px;
+    border: none;
+    margin-left: 100px;
+
+}
+
+.cover-img{
+    width: 680px;
+    height: 850px;
+    padding-right: 100px;
+}
+
+.initial{
+    width: 1820px ;
+    height: 850px;
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
