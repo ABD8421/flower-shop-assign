@@ -53,7 +53,6 @@ margin-left: 100px;
 }
 
 .initial{
-    width: 100%;
     height: 850px;
     flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
@@ -263,9 +262,47 @@ flex-shrink: 0;
 
 
 /* email part */
+.email{
+    background-image: url("Rectangle\ 9.PNG");
+    margin-bottom: 128px;
+    
+}
+.input{
+    height: 449px;
+    flex-shrink: 0;
+    margin-left: 260px;
+    margin-right: 260px;
 
-
-
+}
+.cap{
+text-align: center;
+margin-top: 50px;
+color: #E55473;
+}
+.inp{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+align-items: center;
+margin-left: 600px;
+}
+.subscribe{
+width: 88px;
+height: 27.429px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+width: 150px;
+height: 64px;
+border-radius: 8px;
+background-color: #E55473;
+text-align: center;
+border-style: none;
+}
 
 
 /* footer */
