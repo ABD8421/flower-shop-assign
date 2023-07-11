@@ -251,11 +251,57 @@ line-height: 30px;
 .f-images{
 display: flex;
 justify-content: space-evenly ;
-
+margin-bottom: 128px;
 }
 
 .ff1{
     width: 400px;
 height: 464px;
 flex-shrink: 0;
+}
+
+
+
+/* email part */
+
+
+
+
+
+/* footer */
+
+.footer{
+    background-color: #111010;
+    text-align: center;
+    height: 449px;
+}
+
+.flower-show{
+    padding-top: 128px;
+    color: white;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.flower-show-des{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
